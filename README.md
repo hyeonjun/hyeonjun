@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <br>
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/></a> &nbsp
-<img src="https://img.shields.io/badge/-C#-A8B9CC?style=flat&logo=C#"/></a> &nbsp
+<img src="https://img.shields.io/badge/-C'#'-A8B9CC?style=flat&logo=C'#'"/></a> &nbsp
 <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=OpenGL"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> &nbsp
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> &nbsp
