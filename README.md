@@ -37,9 +37,11 @@ Here are some ideas to get you started:
 
 <br>
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/></a> &nbsp
-<img src="https://img.shields.io/badge/-C'#'-A8B9CC?style=flat&logo=C'#'"/></a> &nbsp
+<img src="https://img.shields.io/badge/-C#-A8B9CC?style=flat&logo=C'#'"/></a> &nbsp
 <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=OpenGL"/></a> &nbsp
+<br>
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Java-Android-#DDC84?style=flat&logo=Java-Android"/></a> &nbsp
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> &nbsp
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Perl-39457E?style=flat&logo=Perl"/></a> &nbsp
@@ -57,4 +59,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <!-- img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/></a> &nbsp -->
 <!--img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a> &nbsp -->
+<br>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5"/></a> &nbsp
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/></a> &nbsp
 
