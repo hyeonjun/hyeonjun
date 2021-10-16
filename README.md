@@ -28,18 +28,33 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium"/></a> &nbsp
 <img src="https://img.shields.io/badge/-BeatifulSoup-59666C?style=flat&logo=BeatifulSoup"/></a> &nbsp
+<br>
+<img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas"/></a> &nbsp
+<img src="https://img.shields.io/badge/-scikit-learn-F7931E?style=flat&logo=scikit-learn"/></a> &nbsp
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow"/></a> &nbsp
+<img src="https://img.shields.io/badge/-OpenCV-FF6F00?style=flat&logo=OpenCV"/></a> &nbsp
+
 
 <br>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/></a> &nbsp
+<img src="https://img.shields.io/badge/-C#-A8B9CC?style=flat&logo=C#"/></a> &nbsp
+<img src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=OpenGL"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> &nbsp
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> &nbsp
-
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
-<!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Perl-39457E?style=flat&logo=Perl"/></a> &nbsp
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
+<br>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL"/></a> &nbsp
+<img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB"/></a> &nbsp
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle"/></a> &nbsp
+
+<br>
+<img src="https://img.shields.io/badge/-Nagios-41454A?style=flat&logo=Nagios"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana"/></a> &nbsp
+<br>
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+<!-- img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/></a> &nbsp -->
+<!--img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a> &nbsp -->
 
