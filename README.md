@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-OpenCV-FF6F00?style=flat&logo=OpenCV"/></a> &nbsp
 <br>
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/></a> &nbsp
-<img src="https://img.shields.io/badge/-C#-A8B9CC?style=flat&logo=C'#'"/></a> &nbsp
+<img src="https://img.shields.io/badge/-C샵-A8B9CC?style=flat&logo=C'#'"/></a> &nbsp
 <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=OpenGL"/></a> &nbsp
 <br>
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> &nbsp
