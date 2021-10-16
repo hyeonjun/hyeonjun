@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-BeatifulSoup-59666C?style=flat&logo=BeatifulSoup"/></a> &nbsp
 <br>
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas"/></a> &nbsp
-<img src="https://img.shields.io/badge/-scikit-learn-F7931E?style=flat&logo=scikit-learn"/></a> &nbsp
+<img src="https://img.shields.io/badge/-scikitlearn-F7931E?style=flat&logo=scikitlearn"/></a> &nbsp
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow"/></a> &nbsp
 <img src="https://img.shields.io/badge/-OpenCV-FF6F00?style=flat&logo=OpenCV"/></a> &nbsp
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=OpenGL"/></a> &nbsp
 <br>
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Java-Android-#DDC84?style=flat&logo=Java-Android"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Android-DDC84?style=flat&logo=Android"/></a> &nbsp
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> &nbsp
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Perl-39457E?style=flat&logo=Perl"/></a> &nbsp
