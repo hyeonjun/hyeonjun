@@ -26,7 +26,12 @@ Here are some ideas to get you started:
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium"/></a> &nbsp
+<img src="https://img.shields.io/badge/-BeatifulSoup-59666C?style=flat&logo=BeatifulSoup"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> &nbsp
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> &nbsp
+
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
