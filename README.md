@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-scikitlearn-F7931E?style=flat&logo=scikitlearn"/></a> &nbsp
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow"/></a> &nbsp
 <img src="https://img.shields.io/badge/-OpenCV-FF6F00?style=flat&logo=OpenCV"/></a> &nbsp
-
-
 <br>
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/></a> &nbsp
 <img src="https://img.shields.io/badge/-C#-A8B9CC?style=flat&logo=C'#'"/></a> &nbsp
@@ -50,16 +48,17 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB"/></a> &nbsp
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle"/></a> &nbsp
-
 <br>
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Nagios-41454A?style=flat&logo=Nagios"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=Grafana"/></a> &nbsp
 <br>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5"/></a> &nbsp
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/></a> &nbsp
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <!-- img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/></a> &nbsp -->
 <!--img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a> &nbsp -->
-<br>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5"/></a> &nbsp
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/></a> &nbsp
+
 
