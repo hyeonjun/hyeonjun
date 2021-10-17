@@ -1,6 +1,6 @@
 # 👋 Hi There 👋
 
-###I'm Studying Algorithm and MachineLearning
+### I'm Studying Algorithm and MachineLearning
 
 <!--
 **hyeonjun/hyeonjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
