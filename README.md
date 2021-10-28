@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas"/></a> &nbsp
 <img src="https://img.shields.io/badge/-scikitlearn-F7931E?style=flat&logo=scikitlearn"/></a> &nbsp
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow"/></a> &nbsp
-<img src="https://img.shields.io/badge/-OpenCV-FF6F00?style=flat&logo=OpenCV"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Folium-77B829?style=flat&logo=Folium"/></a> &nbsp
 <br>
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/></a> &nbsp
 <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.NET"/></a> &nbsp
