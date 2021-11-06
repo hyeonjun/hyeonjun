@@ -67,16 +67,21 @@ Here are some ideas to get you started:
 
 <hr />
 
-<h2 align="center"><b>Python Coursera Certificates</b></h2>
 
-![image](https://user-images.githubusercontent.com/7258995/140607684-54f60e00-f487-4661-8941-a815228b870e.png)
 
-![image](https://user-images.githubusercontent.com/7258995/140607695-355814a2-5b8d-4165-9f6b-301c47e9f8bc.png)
-
-<h2 align="center"><b>Machine Learning Certificates</b></h2>
-
-![image](https://user-images.githubusercontent.com/7258995/140607630-45336507-40e9-41ca-8438-e0a03f1a73dd.png)
-
-<h2 align="center"><b>Deep Learning Certificates</b></h2>
-
-![image](https://user-images.githubusercontent.com/7258995/140607646-a30cfccc-9ac2-4468-85a8-14191d7db5e1.png)
+<table align="center">
+  <tr>
+    <td colspan="2" align="center"><h2><strong>Python Coursera Certificates</strong></h2></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/7258995/140607684-54f60e00-f487-4661-8941-a815228b870e.png" width="320" height="240" /></td>
+    <td><img src="https://user-images.githubusercontent.com/7258995/140607695-355814a2-5b8d-4165-9f6b-301c47e9f8bc.png" width="320" height="240" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><h2><strong>ML / DL Certificates</strong></h2></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/7258995/140607630-45336507-40e9-41ca-8438-e0a03f1a73dd.png" width="320" height="240" /></td>
+    <td><img src="https://user-images.githubusercontent.com/7258995/140607646-a30cfccc-9ac2-4468-85a8-14191d7db5e1.png" width="320" height="240" /></td>
+  </tr>
+</table>
