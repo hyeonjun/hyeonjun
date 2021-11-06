@@ -64,3 +64,19 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <!-- img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/></a> &nbsp -->
 <!--img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a> &nbsp -->
+
+<hr />
+
+<h2 align="center"><b>Python Coursera Certificates</b></h2>
+
+![image](https://user-images.githubusercontent.com/7258995/140607684-54f60e00-f487-4661-8941-a815228b870e.png)
+
+![image](https://user-images.githubusercontent.com/7258995/140607695-355814a2-5b8d-4165-9f6b-301c47e9f8bc.png)
+
+<h2 align="center"><b>Machine Learning Certificates</b></h2>
+
+![image](https://user-images.githubusercontent.com/7258995/140607630-45336507-40e9-41ca-8438-e0a03f1a73dd.png)
+
+<h2 align="center"><b>Deep Learning Certificates</b></h2>
+
+![image](https://user-images.githubusercontent.com/7258995/140607646-a30cfccc-9ac2-4468-85a8-14191d7db5e1.png)
