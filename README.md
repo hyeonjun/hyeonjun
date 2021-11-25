@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <hr />
 
 
-
+<!--
 <table align="center">
   <tr>
     <td colspan="2" align="center"><h2><strong>Python Coursera Certificates</strong></h2></td>
@@ -87,3 +87,4 @@ Here are some ideas to get you started:
     <td><img src="https://user-images.githubusercontent.com/7258995/140607646-a30cfccc-9ac2-4468-85a8-14191d7db5e1.png" width="320" height="240" /></td>
   </tr>
 </table>
+-->
