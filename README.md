@@ -60,10 +60,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5"/></a> &nbsp
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/></a> &nbsp
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React"/></a> &nbsp
+<img src="https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=AngularJS"/></a> &nbsp
+<br>
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
-<!-- img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/></a> &nbsp -->
-<!--img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a> &nbsp -->
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a> &nbsp
 
 <hr />
 
