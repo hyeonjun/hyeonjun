@@ -37,19 +37,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Seaborn-AA0000?style=flat&logo=Seaborn"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Folium-77B829?style=flat&logo=Folium"/></a> &nbsp
 <br>
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/></a> &nbsp
-<img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.NET"/></a> &nbsp
-<img src="https://img.shields.io/badge/-OpenGL-5586A4?style=flat&logo=OpenGL"/></a> &nbsp
-<br>
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Android-DDC84?style=flat&logo=Android"/></a> &nbsp
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript"/></a> &nbsp
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Perl-39457E?style=flat&logo=Perl"/></a> &nbsp
 <br>
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL"/></a> &nbsp
 <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB"/></a> &nbsp
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle"/></a> &nbsp
 <br>
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux"/></a> &nbsp
@@ -62,8 +56,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=AngularJS"/></a> &nbsp
 <br>
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring"/></a> &nbsp
+<img src="https://img.shields.io/badge/-Flask-092E20?style=flat&logo=Flask"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a> &nbsp
 
 <hr />
