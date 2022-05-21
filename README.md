@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zlel175&cache=c">
+| python | Java |
+| --- | --- |
+| <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zlel175&cache=c"> | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zlxl175&cache=c"> |
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjun&show_icons=true&theme=radical)
 
