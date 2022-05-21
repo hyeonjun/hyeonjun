@@ -19,13 +19,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table align="center">
+  <thead>
+    <tr colspan="2" align="center">
+      <td><strong>Python</strong></td>
+      <td><strong>Java</strong></td>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr colspan="2" align="center">
+      <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zlel175&cache=c"></td>
+      <td><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zlxl175&cache=c"></td>
+    </tr>
+  </tbody>
+</table>
 
-| python | Java |
-| --- | --- |
-| <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zlel175&cache=c"> | <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zlxl175&cache=c"> |
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjun&show_icons=true&theme=radical)
+---
 
 <h2 align="center"><b>🛠 Tech Stack 🛠</b></h2>
 </br>
@@ -62,7 +72,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Flask-092E20?style=flat&logo=Flask"/></a> &nbsp
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot"/></a> &nbsp
 
-<hr />
+
+---
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjun&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjun&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
